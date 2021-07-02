@@ -1,0 +1,31 @@
+{
+  "name": "nice-ui",
+  "version": "1.0.0",
+  "description": "nice-ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr-common/nice-ui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mr-common/nice-ui/issues"
+  },
+  "homepage": "https://github.com/mr-common/nice-ui#readme",
+  "dependencies": {
+    "@babel/core": "^7.14.6",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^5.2.6",
+    "html-webpack-plugin": "^5.3.2",
+    "vue": "^2.6.14",
+    "vue-loader": "^16.3.0",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^5.42.0",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
